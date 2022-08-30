@@ -6,7 +6,23 @@
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
     <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
+    <Authors>R3z Shark</Authors>
+    <Company>R3z</Company>
+    <StartupObject></StartupObject>
+    <ApplicationIcon>StoreLogo.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="StoreLogo.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="StoreLogo.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="StoreLogo.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <Compile Update="Settings.Designer.cs">

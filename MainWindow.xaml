@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:R3zAmongUsTool"
         mc:Ignorable="d"
         Title="R3z: Among Us Tool" Height="450" Width="800" WindowStartupLocation="CenterScreen"
-        Background="#560000" WindowState="Maximized">
+        Background="#560000" WindowState="Maximized" Icon="/StoreLogo.ico">
     <Grid>
         <Viewbox>
             <Grid>

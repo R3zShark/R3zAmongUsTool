@@ -17,3 +17,4 @@ F:\Working\Visual Studio 2022\Desktop\R3zWPF\R3zAmongUsTool\obj\Release\net6.0-w
 F:\Working\Visual Studio 2022\Desktop\R3zWPF\R3zAmongUsTool\obj\Release\net6.0-windows\R3zAmongUsTool.genruntimeconfig.cache
 F:\Working\Visual Studio 2022\Desktop\R3zWPF\R3zAmongUsTool\bin\Release\net6.0-windows\R3zAmongUsTool.pdb
 F:\Working\Visual Studio 2022\Desktop\R3zWPF\R3zAmongUsTool\obj\Release\net6.0-windows\R3zAmongUsTool.pdb
+F:\Working\Visual Studio 2022\Desktop\R3zWPF\R3zAmongUsTool\obj\Release\net6.0-windows\R3zAmongUsTool_Content.g.cs
